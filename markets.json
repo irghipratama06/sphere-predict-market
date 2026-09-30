@@ -1,0 +1,14 @@
+[
+  {"id":"d1-btc","period":"daily","cat":"Crypto","q":"Will BTC close above $100,000 today (UTC)?","end":"2026-10-02T23:59:00Z","yes":120,"no":80},
+  {"id":"d1-sol","period":"daily","cat":"Crypto","q":"Will SOL gain more than 3% in the next 24h?","end":"2026-10-02T23:59:00Z","yes":70,"no":90},
+  {"id":"d1-eth","period":"daily","cat":"Crypto","q":"Will ETH stay above $3,500 today?","end":"2026-10-02T23:59:00Z","yes":95,"no":65},
+  {"id":"d1-fed","period":"daily","cat":"Politics","q":"Will a G7 leader announce new tariffs today?","end":"2026-10-02T23:59:00Z","yes":40,"no":110},
+  {"id":"d1-ucl","period":"daily","cat":"Sports","q":"Will the home team win the next Champions League match of the day?","end":"2026-10-02T18:00:00Z","yes":85,"no":75},
+  {"id":"d1-nba","period":"daily","cat":"Sports","q":"Will tonight's top NBA game go to overtime?","end":"2026-10-02T23:00:00Z","yes":30,"no":120},
+  {"id":"w1-elec","period":"weekly","cat":"Politics","q":"Will the ruling party lead the next major national poll this week?","end":"2026-10-08T23:59:00Z","yes":100,"no":100},
+  {"id":"w1-rate","period":"weekly","cat":"Economy","q":"Will the US Fed hold rates at its next meeting?","end":"2026-10-08T23:59:00Z","yes":130,"no":50},
+  {"id":"w1-f1","period":"weekly","cat":"Sports","q":"Will the F1 championship leader win this weekend's race?","end":"2026-10-06T14:00:00Z","yes":80,"no":90},
+  {"id":"w1-ai","period":"weekly","cat":"AI & Tech","q":"Will a new frontier AI model be released this week?","end":"2026-10-08T23:59:00Z","yes":90,"no":60},
+  {"id":"w1-film","period":"weekly","cat":"Entertainment","q":"Will this weekend's #1 film gross over $50M domestic?","end":"2026-10-05T23:59:00Z","yes":55,"no":75},
+  {"id":"w1-uct","period":"weekly","cat":"Crypto","q":"Will total crypto market cap rise this week?","end":"2026-10-08T23:59:00Z","yes":110,"no":70}
+]
